@@ -9,6 +9,13 @@
                 "jamesmontemagno/monkeymcp"
             ],
             "env": {}
-        }
+        },
+        "MyServer": {
+                "type": "stdio",
+                "command": "python",
+                "args": [
+                    "/workspaces/servers/src/server.py"
+                ]
+            }
     }
 }
