@@ -1,0 +1,1 @@
+There are two data sources. When you get a query, you can query these two data sources and get information and produce an answer to the query. Update any data source if necessary. Here is the query: how long will a content process run an indexer?
